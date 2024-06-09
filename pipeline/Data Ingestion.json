@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy Data From Http",
+				"name": "Atheletes Data",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
