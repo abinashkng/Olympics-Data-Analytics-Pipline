@@ -9,7 +9,10 @@
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "AzureBlobFSLocation"
+				"type": "AzureBlobFSLocation",
+				"fileName": "Medals_Total.csv",
+				"folderPath": "raw-data",
+				"fileSystem": "olympicstokyo2021data"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
