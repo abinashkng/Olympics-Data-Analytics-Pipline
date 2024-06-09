@@ -1,0 +1,12 @@
+{
+	"name": "MedalsTotalHttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/abinashkng/Olympics-Data-Analytics-Pipline/main/data/medals_total.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
