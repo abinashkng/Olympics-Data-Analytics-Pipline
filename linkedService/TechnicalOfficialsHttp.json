@@ -1,0 +1,12 @@
+{
+	"name": "TechnicalOfficialsHttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/abinashkng/Olympics-Data-Analytics-Pipline/main/data/technical_officials.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
